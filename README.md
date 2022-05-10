@@ -22,7 +22,7 @@ A single struct holds a record card, defined by
     index,  a number of this card
     okey, the card to go if answer is yes
     nyet, the card to go if answer is no
-    question/match, the question or match
+    question/response, the question or response
     counter,  a counter of links to this card
     flags,  some flags for this card
 
