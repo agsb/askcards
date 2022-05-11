@@ -32,5 +32,15 @@ index, okey, nyet are long integers, as a linked list, count and flag are intege
 
 first 8 cards, 0 to 7 are reserved for indexes and status
 
+Eg. 2 Mb could keep 2048 questions and 4096 responses
+
+## Special cards
+
+    0   it holds: question is a collection resume, index as number of cards in colection, okey as next empty card, nyet as next free card at linked list of deleted,
+    1, 2, 3, 4, 5, 6, 7 not used now
+
+
+
+
 
 ** using libc definitions
